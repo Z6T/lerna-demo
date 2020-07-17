@@ -1,6 +1,6 @@
 {
   "name": "gama",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "zhangtao15 <zhangtao15@xiaomi.com>",
   "homepage": "https://github.com/Z6T/lerna-demo#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/Z6T/lerna-demo/issues"
   },
   "dependencies": {
-    "beta": "^0.0.2"
+    "beta": "^0.0.3"
   },
   "gitHead": "42114bc314332d10896ea976d34c6e65235470d9"
 }
