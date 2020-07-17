@@ -29,5 +29,6 @@
   "dependencies": {
     "beta": "^0.0.2",
     "jquery": "^3.5.1"
-  }
+  },
+  "gitHead": "42114bc314332d10896ea976d34c6e65235470d9"
 }

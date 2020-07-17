@@ -1,6 +1,6 @@
 module.exports = {
     sayHello:() => {
-        console.log('hello')
+        console.log('hello---')
     }
     
 }
