@@ -1,6 +1,6 @@
 {
   "name": "alpha",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "zhangtao15 <zhangtao15@xiaomi.com>",
   "homepage": "https://github.com/Z6T/lerna-demo#readme",
@@ -25,5 +25,9 @@
   },
   "bugs": {
     "url": "https://github.com/Z6T/lerna-demo/issues"
+  },
+  "dependencies": {
+    "beta": "^0.0.0",
+    "jquery": "^3.5.1"
   }
 }
